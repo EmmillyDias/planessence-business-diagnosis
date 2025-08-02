@@ -32,7 +32,7 @@ For privacy reasons, a fictional version is included in this repository.
 ## 🖼️ Presentation
 
 The full analysis and visuals are available in the presentation:  
-📎 
+📎 [Análise Diagnóstica de Negócios Alimentícios Locais - Planessence .pdf]
 
 ## 👨‍💻 Technologies Used
 
