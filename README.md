@@ -32,7 +32,7 @@ For privacy reasons, a fictional version is included in this repository.
 ## 🖼️ Presentation
 
 The full analysis and visuals are available in the presentation:  
-📎 [Análise Diagnóstica de Negócios Alimentícios Locais - Planessence .pdf]
+📎 [https://github.com/EmmillyDias/planessence-business-diagnosis/blob/bb2bb341695ced135b32ce2bb9c60fb64b9efa16/Ana%CC%81lise%20Diagno%CC%81stica%20de%20Nego%CC%81cios%20Alimenti%CC%81cios%20Locais%20-%20Planessence%20.pdf]
 
 ## 👨‍💻 Technologies Used
 
